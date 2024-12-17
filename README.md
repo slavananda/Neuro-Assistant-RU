@@ -1,7 +1,7 @@
 # Neuro-Assistant-RU
 
 
-![Alt текст](image.png)
+![Alt текст](1.png)
 
 
 
